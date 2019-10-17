@@ -1,0 +1,11 @@
+﻿  Parallelogram.cpp
+c:\users\admin\desktop\oop2\oop2\oop2\parallelogram.cpp(6): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\users\admin\desktop\oop2\oop2\oop2\parallelogram.cpp(135): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+c:\users\admin\desktop\oop2\oop2\oop2\parallelogram.cpp(136): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+c:\users\admin\desktop\oop2\oop2\oop2\parallelogram.cpp(139): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+c:\users\admin\desktop\oop2\oop2\oop2\parallelogram.cpp(140): warning C4244: =: преобразование "const LONG" в "float", возможна потеря данных
+c:\users\admin\desktop\oop2\oop2\oop2\parallelogram.cpp(146): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+  main.cpp
+  Создание кода...
+c:\users\admin\desktop\oop2\oop2\oop2\parallelogram.cpp(127): warning C4715: Parallelogram::check_parall: значение возвращается не при всех путях выполнения
+  OOP2.vcxproj -> C:\Users\Admin\Desktop\OOP2\OOP2\Debug\OOP2.exe
